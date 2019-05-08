@@ -1,0 +1,13 @@
+{
+  "name": "github-description",
+  "version": "2019.4.13",
+  "description": "get/set github repo description",
+  "keywords": [
+    "github"
+  ],
+  "homepage": "https://github.com/looking-for-a-job/github-description",
+  "license": "Unlicense",
+  "bin": {
+    "github-description": "./scripts/github-description"
+  }
+}
